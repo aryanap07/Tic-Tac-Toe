@@ -2,7 +2,10 @@
 
 It’s a beginner-friendly project that helped me learn about GUI programming, event handling, and game logic in Python.
 
-![Tic-Tac-Toe Game](assets/OWins.png)
+
+<p align="center">
+  <img src="assets/OWins.png" alt="Tic-Tac-Toe Game">
+</p>
 
 ## Features
 
